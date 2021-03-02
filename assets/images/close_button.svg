@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.707 31.707">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="Group_214" data-name="Group 214" transform="translate(-473.146 -422.146)">
+    <line id="Line_4" data-name="Line 4" class="cls-1" y1="31" x2="31" transform="translate(473.5 422.5)"/>
+    <line id="Line_12" data-name="Line 12" class="cls-1" x1="31" y1="31" transform="translate(473.5 422.5)"/>
+  </g>
+</svg>
